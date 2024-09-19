@@ -1,17 +1,6 @@
 ## Hi there 👋
 
-<!--
-**solveig-boivin/solveig-boivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on new mobile app designs
-- 🌱 I’m currently learning mobile app developpement and Kotlin
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about design and accessibility standards
-- 📫 How to reach me: LinkedIn, Behance
-- ⚡ Fun fact:
--->
+<!--**solveig-boivin/solveig-boivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 My name is Solveig and I'm a UX/UI designer.
 
